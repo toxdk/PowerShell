@@ -1,2 +1,3 @@
 
-Rename-Computer -NewName "hostname" -Force -Restart
+Rename-Computer -NewName 'hostname' -Force -Restart
+
