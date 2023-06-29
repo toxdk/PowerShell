@@ -1,4 +1,5 @@
 
 # Hello, World! - by Tox
 
-Write-Output "Hello, World!"
+Write-Host 'Hello, World!'
+
